@@ -126,6 +126,3 @@ be added to `SCALARS` / `ARRAYS` by name.
 - ☁️ **Game shows old values / resets**: it may be syncing from the cloud. Disable cloud save / go offline.
 - 📢 **Ads still show**: the purchase may be re-verified with the store. Try offline.
 
-## 📄 License
-
-MIT. See [LICENSE](LICENSE).
