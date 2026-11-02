@@ -125,7 +125,3 @@ be added to `SCALARS` / `ARRAYS` by name.
 - **`not a class record` / `unsupported record`**: the file isn't a `playerInfo.dat` from this game or version.
 - **Game shows old values / resets**: it may be syncing from the cloud. Disable cloud save / go offline.
 - **Ads still show**: the purchase may be re-verified with the store. Try offline.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
